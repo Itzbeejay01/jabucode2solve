@@ -9,13 +9,4 @@
     { "src": "/(.*)",  "dest": "/api/logo.png" },
     { "src": "/(.*)",  "dest": "/api/login.php" }
    ]
-
-    "functions": {
-    "api/**/*.png": {
-      "runtime": "vercel-php@0.6.0"
-    }
-  },
-  "routes": [
-    { "src": "/(.*)",  "dest": "/api/logo.png" },
-   ]
 }
