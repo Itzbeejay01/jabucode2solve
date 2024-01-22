@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JABU</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="https://drive.google.com/file/d/1WK_nDogu4gJuflF2YxoFrAzUBuwktOw7/view?usp=drivesdk%0A" type="image/x-icon">
+    <link rel="shortcut icon" href="https://arena.mycredentials.ng/wp-content/uploads/2021/04/jabu.jpg" type="image/x-icon">
 </head>
 
 <body class="w-full h-full bg-gray-100 py-24 p-10 lg:px-96 lg:py-20">
