@@ -15,7 +15,7 @@
         <div class="flex flex-col items-center">
             <h2 class="text-xl text-slate-900 font-bold mb-2 text-center">JOSEPH AYO BABALOLA UNIVERSITY</h2>
             <h2 class="text-lg text-slate-900 mb-4 text-center">Computer Science Department</h2>
-              <img class="w-24" src="https://drive.google.com/file/d/1WK_nDogu4gJuflF2YxoFrAzUBuwktOw7/view?usp=drivesdk%0A" alt="">
+              <img class="w-24" src="https://images.pexels.com/photos/176837/pexels-photo-176837.jpeg?auto=compress&cs=tinysrgb&w=60&h=60&dpr=2" alt="">
             <h2 class="text-lg font-medium text-center text-slate-900 mb-5">300L C.A. SCORE BOARD</h2>
         </div>
         <form  method="post" class="w-full h-full pb-3 lg:px-14">
