@@ -4,7 +4,7 @@ include 'connection.php';
 
     $course= $_POST['course'];
     $matricNumber = $_POST['matricNumber'];
-    $score = $_POST['score'];
+   
 
     if($course == "csc315"){
 
