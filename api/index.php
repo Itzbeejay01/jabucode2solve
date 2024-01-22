@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JABU</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="https://edugist.ng/wp-content/uploads/2021/10/Joseph-Ayo-Babalola-University.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://drive.google.com/file/d/1WK_nDogu4gJuflF2YxoFrAzUBuwktOw7/view?usp=drivesdk%0A" type="image/x-icon">
 </head>
 
 <body class="w-full h-full bg-gray-100 py-24 p-10 lg:px-96 lg:py-20">
@@ -15,7 +15,7 @@
         <div class="flex flex-col items-center">
             <h2 class="text-xl text-slate-900 font-bold mb-2 text-center">JOSEPH AYO BABALOLA UNIVERSITY</h2>
             <h2 class="text-lg text-slate-900 mb-4 text-center">Computer Science Department</h2>
-              <img class="w-24" src="logo.php" alt="">
+              <img class="w-24" src="https://drive.google.com/file/d/1WK_nDogu4gJuflF2YxoFrAzUBuwktOw7/view?usp=drivesdk%0A" alt="">
             <h2 class="text-lg font-medium text-center text-slate-900 mb-5">300L C.A. SCORE BOARD</h2>
         </div>
         <form  method="post" class="w-full h-full pb-3 lg:px-14">
