@@ -13,7 +13,7 @@
 <body class="w-full h-full bg-gray-100 py-24 p-10 lg:px-96 lg:py-20">
     <div class="w-full h-full bg-white rounded py-16 p-8 shadow-md lg:w-full lg:flex lg:flex-col lg:py-20 lg:justify-center lg:items-center">
         <div class="flex flex-col items-center">
-            <img class="w-24" src="https://arena.mycredentials.ng/wp-content/uploads/2021/04/jabu.jpg" alt="">
+            <img class="" src="https://arena.mycredentials.ng/wp-content/uploads/2021/04/jabu.jpg" alt="">
             <h2 class="text-xl text-slate-900 font-bold mb-2 text-center">JOSEPH AYO BABALOLA UNIVERSITY</h2>
             <h2 class="text-lg text-slate-900 mb-4 text-center">Computer Science Department</h2>
             <h2 class="text-lg font-medium text-center text-slate-900 mb-5">300L C.A. SCORE BOARD</h2>
